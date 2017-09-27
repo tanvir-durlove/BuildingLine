@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@color/background_color"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tvSelectPack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/padding_dialog_buttons"
+        android:text="@string/select_pack"
+        android:textColor="@color/main3"
+        android:textSize="@dimen/heading_main_textsize"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/bpack5"
+        android:layout_width="@dimen/pack_width"
+        android:layout_height="@dimen/pack_height"
+        android:layout_marginTop="@dimen/pack_margin_top"
+        android:background="@drawable/custom_rounrect_five"
+        android:text="@string/five"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/content_text_size" />
+
+    <Button
+        android:id="@+id/bpack6"
+        android:layout_width="@dimen/pack_width"
+        android:layout_height="@dimen/pack_height"
+        android:layout_marginTop="@dimen/pack_margin_top"
+        android:background="@drawable/custom_rounrect_six"
+        android:text="@string/six"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/content_text_size" />
+
+    <Button
+        android:id="@+id/bpack7"
+        android:layout_width="@dimen/pack_width"
+        android:layout_height="@dimen/pack_height"
+        android:layout_marginTop="@dimen/pack_margin_top"
+        android:background="@drawable/custom_rounrect_seven"
+        android:text="@string/seven"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/content_text_size" />
+
+    <Button
+        android:id="@+id/bpack8"
+        android:layout_width="@dimen/pack_width"
+        android:layout_height="@dimen/pack_height"
+        android:layout_marginTop="@dimen/pack_margin_top"
+        android:background="@drawable/custom_rounrect_eight"
+        android:text="@string/eight"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/content_text_size" />
+
+    <Button
+        android:id="@+id/bpack9"
+        android:layout_width="@dimen/pack_width"
+        android:layout_height="@dimen/pack_height"
+        android:layout_marginTop="@dimen/pack_margin_top"
+        android:background="@drawable/custom_rounrect_nine"
+        android:text="@string/nine"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/content_text_size" />
+
+    <Button
+        android:id="@+id/bpack10"
+        android:layout_width="@dimen/pack_width"
+        android:layout_height="@dimen/pack_height"
+        android:layout_marginTop="@dimen/pack_margin_top"
+        android:background="@drawable/custom_rounrect_ten"
+        android:text="@string/ten"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/content_text_size" />
+
+</LinearLayout>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:padding="@dimen/padding"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tvSelectPack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/padding_dialog_buttons"
+        android:text="@string/select_tag"
+        android:textColor="@color/main3"
+        android:textSize="@dimen/heading_main_textsize"
+        android:textStyle="bold" />
+
+    <RelativeLayout
+        android:id="@+id/rltag1"
+        android:layout_width="@dimen/pack_width"
+        android:layout_height="@dimen/pack_height"
+        android:layout_marginTop="@dimen/pack_margin_top"
+        android:background="@drawable/custom_rounrect_five"
+        android:onClick="true"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/ivtag1"
+            android:layout_width="@dimen/tag_height"
+            android:layout_height="@dimen/tag_height"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/tag_height"
+            android:background="@drawable/zero"
+            android:padding="@dimen/pack_margin_top" />
+
+        <TextView
+            android:id="@+id/tvtag1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/pack_height"
+            android:layout_toRightOf="@+id/ivtag1"
+            android:text="@string/tag1"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/content_text_size" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rltag2"
+        android:layout_width="@dimen/pack_width"
+        android:layout_height="@dimen/pack_height"
+        android:layout_marginTop="@dimen/pack_margin_top"
+        android:background="@drawable/custom_rounrect_six"
+        android:onClick="true"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/ivtag2"
+            android:layout_width="@dimen/tag_height"
+            android:layout_height="@dimen/tag_height"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/tag_height"
+            android:background="@drawable/one"
+            android:padding="@dimen/pack_margin_top" />
+
+        <TextView
+            android:id="@+id/tvtag2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/pack_height"
+            android:layout_toRightOf="@+id/ivtag2"
+            android:text="@string/tag2"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/content_text_size" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rltag3"
+        android:layout_width="@dimen/pack_width"
+        android:layout_height="@dimen/pack_height"
+        android:layout_marginTop="@dimen/pack_margin_top"
+        android:background="@drawable/custom_rounrect_seven"
+        android:onClick="true"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/ivtag3"
+            android:layout_width="@dimen/tag_height"
+            android:layout_height="@dimen/tag_height"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/tag_height"
+            android:background="@drawable/two"
+            android:padding="@dimen/pack_margin_top" />
+
+        <TextView
+            android:id="@+id/tvtag3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/pack_height"
+            android:layout_toRightOf="@+id/ivtag3"
+            android:text="@string/tag3"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/content_text_size" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rltag4"
+        android:layout_width="@dimen/pack_width"
+        android:layout_height="@dimen/pack_height"
+        android:layout_marginTop="@dimen/pack_margin_top"
+        android:background="@drawable/custom_rounrect_eight"
+        android:onClick="true"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/ivtag4"
+            android:layout_width="@dimen/tag_height"
+            android:layout_height="@dimen/tag_height"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/tag_height"
+            android:background="@drawable/three"
+            android:padding="@dimen/pack_margin_top" />
+
+        <TextView
+            android:id="@+id/tvtag4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/pack_height"
+            android:layout_toRightOf="@+id/ivtag4"
+            android:text="@string/tag4"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/content_text_size" />
+    </RelativeLayout>
+
+</LinearLayout>

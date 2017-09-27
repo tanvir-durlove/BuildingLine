@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- String values for Rate dialog -->
+    <string name="rate">Rate</string>
+    <string name="rate_dialog_title">Rate Link</string>
+    <string name="rate_message">If you like Link, please take a moment to rate it. Thanks for your support!</string>
+    <string name="later">Later</string>
+    <string name="no_thanks">No </string>
+
+    <!-- values for admob -->
+    <string name="banner_id"> ca-app-pub-8389297099602812/8261868446</string>
+    <string name="interstitial_id">ca-app-pub-8389297099602812/3007394535</string>
+
+    <!-- values for tapjoy free hints -->
+    <string name="tap_appId">349fc50b-f810-4bd1-b1d6-97087e315d09</string>
+    <string name="tap_appKey">Llnq1xe98O4xCdyCzFRG</string>
+    <string name="tap_hintId">349fc50b-f810-4bd1-b1d6-97087e315d09</string>
+
+    <!-- values for vungle -->
+    <string name="appId">creativedroidsapp001</string>
+
+    <!-- string values for app -->
+    <string name="shareSubject">Check this out</string>
+    <string name="app_name">Draw Your Line</string>
+    <string name="folder_name">Link</string>
+    <string name="tag1">Dots</string>
+    <string name="tag2">Toffee</string>
+    <string name="tag3">Ball</string>
+    <string name="tag4">Pizza</string>
+    <string name="start_game">Start Game</string>
+    <string name="select_pack">Select Pack</string>
+    <string name="select_tag">Select Tag</string>
+    <string name="basic_pack">Basic Pack</string>
+    <string name="advanced_pack">Advanced Pack</string>
+    <string name="tablet_pack">Tablet Pack</string>
+    <string name="leaderboards">Leaderboards</string>
+    <string name="achievements">Achievements</string>
+    <string name="more">More..</string>
+    <string name="sound">Sound : </string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="tags">Change Tags</string>
+    <string name="share_hints">Share Hints</string>
+    <string name="video_hints">Video Hints</string>
+    <string name="free_hints">Free Hints</string>
+    <string name="getHints">Get Hints</string>
+    <string name="store">Store</string>
+    <string name="help">Help</string>
+    <string name="five">5x5</string>
+    <string name="six">6x6</string>
+    <string name="seven">7x7</string>
+    <string name="eight">8x8</string>
+    <string name="nine">9x9</string>
+    <string name="ten">10x10</string>
+    <string name="eleven">11x11</string>
+    <string name="twelve">12x12</string>
+    <string name="thirteen">13x13</string>
+    <string name="fourteen">14x14</string>
+
+    <!-- string values for level complete dialog -->
+    <string name="level_complete">Level Complete</string>
+    
+    <!-- String values for permission denied -->
+    <string name="perm_denied">To use this feature please grant storage permissions to link from the settings.</string>
+
+    <!-- string values for get hints -->
+    <string name="freeHintsDes">Complete offers to get hints</string>
+    <string name="shareHintsDes">Share this app to get hints</string>
+    <string name="videoHintsDes">View a video to get hints</string>
+
+    <!-- string values for game screen -->
+    <string name="levelLabel">Level :</string>
+    <string name="movesLabel">Moves :</string>
+    <string name="hintsLabel">Hints :</string>
+    <string name="bestLabel">Best :</string>
+
+</resources>

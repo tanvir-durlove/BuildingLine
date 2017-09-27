@@ -1,0 +1,273 @@
+[
+    {
+        "outputFile": "/home/td/Downloads/link/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xhdpi-v4/values-xhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/home/td/Downloads/link/app/src/main/res/values-xhdpi/dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 470,
+                        "endColumn": 48,
+                        "endOffset": 514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 52,
+                    "endOffset": 152
+                },
+                "from": {
+                    "file": "/home/td/Downloads/link/app/src/main/res/values-xhdpi/dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 624,
+                        "endColumn": 52,
+                        "endOffset": 672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 157,
+                    "endColumn": 48,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/home/td/Downloads/link/app/src/main/res/values-xhdpi/dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 420,
+                        "endColumn": 48,
+                        "endOffset": 464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endColumn": 50,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "/home/td/Downloads/link/app/src/main/res/values-xhdpi/dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 520,
+                        "endColumn": 50,
+                        "endOffset": 566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 257,
+                    "endColumn": 50,
+                    "endOffset": 303
+                },
+                "from": {
+                    "file": "/home/td/Downloads/link/app/src/main/res/values-xhdpi/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 134,
+                        "endColumn": 50,
+                        "endOffset": 180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 308,
+                    "endColumn": 53,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "/home/td/Downloads/link/app/src/main/res/values-xhdpi/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endColumn": 53,
+                        "endOffset": 235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endColumn": 42,
+                    "endOffset": 400
+                },
+                "from": {
+                    "file": "/home/td/Downloads/link/app/src/main/res/values-xhdpi/dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 333,
+                        "endColumn": 42,
+                        "endOffset": 371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 46,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "/home/td/Downloads/link/app/src/main/res/values-xhdpi/dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 285,
+                        "endColumn": 46,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 42,
+                    "endOffset": 490
+                },
+                "from": {
+                    "file": "/home/td/Downloads/link/app/src/main/res/values-xhdpi/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 241,
+                        "endColumn": 42,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 495,
+                    "endColumn": 37,
+                    "endOffset": 528
+                },
+                "from": {
+                    "file": "/home/td/Downloads/link/app/src/main/res/values-xhdpi/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 719,
+                        "endColumn": 37,
+                        "endOffset": 752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 533,
+                    "endColumn": 42,
+                    "endOffset": 571
+                },
+                "from": {
+                    "file": "/home/td/Downloads/link/app/src/main/res/values-xhdpi/dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 758,
+                        "endColumn": 42,
+                        "endOffset": 796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 576,
+                    "endColumn": 53,
+                    "endOffset": 625
+                },
+                "from": {
+                    "file": "/home/td/Downloads/link/app/src/main/res/values-xhdpi/dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 802,
+                        "endColumn": 53,
+                        "endOffset": 851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 630,
+                    "endColumn": 50,
+                    "endOffset": 676
+                },
+                "from": {
+                    "file": "/home/td/Downloads/link/app/src/main/res/values-xhdpi/dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 572,
+                        "endColumn": 50,
+                        "endOffset": 618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 681,
+                    "endColumn": 41,
+                    "endOffset": 718
+                },
+                "from": {
+                    "file": "/home/td/Downloads/link/app/src/main/res/values-xhdpi/dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 377,
+                        "endColumn": 41,
+                        "endOffset": 414
+                    }
+                }
+            }
+        ]
+    }
+]

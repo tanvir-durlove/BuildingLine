@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- here are the layout values for devices like nexus 7 -->
+
+
+    <!-- values for startScreen -->
+    <dimen name="margin_above_cirlce">60dp</dimen>
+    <dimen name="margin_above_roundrect">100dp</dimen>
+    <dimen name="pack_width">500dp</dimen>
+    <dimen name="pack_margin_top">30dp</dimen>
+    <dimen name="pack_height">90dp</dimen>
+    <dimen name="tag_height">70dp</dimen>
+    <dimen name="heading_text_size">45sp</dimen>
+    <dimen name="content_text_size">38sp</dimen>
+    <dimen name="level_rect_thickness">6dp</dimen>
+    <dimen name="round_rect_thickness">8dp</dimen>
+    <dimen name="heading_main_textsize">55sp</dimen>
+
+    <!-- values for dialog screen -->
+    <dimen name="padding">15dp</dimen>
+    <dimen name="paddingLeft">100dp</dimen>
+    <dimen name="padding_dialog_buttons">25dp</dimen>
+
+</resources>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_root"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/rectangleshape"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/padding"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:paddingBottom="10dp"
+        android:paddingTop="20dp" >
+
+        <TextView
+            android:id="@+id/tvtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/level_complete"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/heading_main_textsize"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:paddingBottom="10dp"
+        android:paddingTop="@dimen/padding" >
+
+        <ImageView
+            android:id="@+id/ratingview1"
+            android:layout_width="0.0px"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1.0"
+            android:src="@drawable/star_lost" />
+
+        <ImageView
+            android:id="@+id/ratingview2"
+            android:layout_width="0.0px"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1.0"
+            android:src="@drawable/star_lost" />
+
+        <ImageView
+            android:id="@+id/ratingview3"
+            android:layout_width="0.0px"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1.0"
+            android:src="@drawable/star_lost" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/paddingLeft"
+            android:text="hello"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/content_text_size" />
+
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/text"
+            android:paddingLeft="@dimen/paddingLeft"
+            android:paddingTop="@dimen/padding"
+            android:text="hello"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/content_text_size" />
+
+        <Button
+            android:id="@+id/bshare"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/pack_height"
+            android:background="@drawable/share" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ButtonLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:baselineAligned="false"
+        android:padding="15dip" >
+
+        <Button
+            android:id="@+id/bdialogMenu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8.0dip"
+            android:layout_marginRight="20.0dip"
+            android:background="@drawable/custom_button_menu"
+            android:paddingLeft="@dimen/padding_dialog_buttons"
+            android:paddingRight="@dimen/padding_dialog_buttons"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/bdialogReplay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8.0dip"
+            android:background="@drawable/custom_button_replay"
+            android:paddingLeft="@dimen/padding_dialog_buttons"
+            android:paddingRight="@dimen/padding_dialog_buttons"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/bdialogNext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8.0dip"
+            android:layout_marginLeft="20.0dip"
+            android:background="@drawable/custom_button_next"
+            android:paddingLeft="@dimen/padding_dialog_buttons"
+            android:paddingRight="@dimen/padding_dialog_buttons"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</LinearLayout>

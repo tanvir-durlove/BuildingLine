@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tvpacktype"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/paddingLeft"
+        android:text="@string/select_pack"
+        android:textColor="@color/pack5"
+        android:textSize="@dimen/heading_main_textsize" />
+
+    <Button
+        android:id="@+id/bbasic"
+        android:layout_width="@dimen/pack_width"
+        android:layout_height="@dimen/pack_height"
+        android:layout_margin="@dimen/pack_margin_top"
+        android:background="@drawable/custom_rounrect_flow1"
+        android:text="@string/basic_pack"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/heading_text_size" />
+
+    <Button
+        android:id="@+id/badvanced"
+        android:layout_width="@dimen/pack_width"
+        android:layout_height="@dimen/pack_height"
+        android:layout_margin="@dimen/pack_margin_top"
+        android:background="@drawable/custom_rounrect_flow2"
+        android:text="@string/advanced_pack"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/heading_text_size" />
+
+    <Button
+        android:id="@+id/btablet"
+        android:layout_width="@dimen/pack_width"
+        android:layout_height="@dimen/pack_height"
+        android:layout_margin="@dimen/pack_margin_top"
+        android:background="@drawable/custom_rounrect_flow3"
+        android:text="@string/tablet_pack"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/heading_text_size" />
+
+</LinearLayout>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/td/Downloads/link/app/build/intermediates/res/merged/debug/drawable-xhdpi/helpscreen.png",
+        "source": "/home/td/Downloads/link/app/src/main/res/drawable-xhdpi/helpscreen.png"
+    },
+    {
+        "merged": "/home/td/Downloads/link/app/build/intermediates/res/merged/debug/drawable-xhdpi/star_normal.png",
+        "source": "/home/td/Downloads/link/app/src/main/res/drawable-xhdpi/star_normal.png"
+    },
+    {
+        "merged": "/home/td/Downloads/link/app/build/intermediates/res/merged/debug/drawable-xhdpi/star_filled.png",
+        "source": "/home/td/Downloads/link/app/src/main/res/drawable-xhdpi/star_filled.png"
+    },
+    {
+        "merged": "/home/td/Downloads/link/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/td/Downloads/link/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]

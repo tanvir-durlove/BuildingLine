@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@color/background_color"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tvSelectPack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/pack_margin_top"
+        android:text="@string/select_pack"
+        android:textColor="@color/main3"
+        android:textSize="@dimen/heading_main_textsize"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/bpack11"
+        android:layout_width="@dimen/pack_width"
+        android:layout_height="@dimen/pack_height"
+        android:layout_marginTop="@dimen/pack_height"
+        android:background="@drawable/custom_rounrect_eleven"
+        android:text="@string/eleven"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/content_text_size"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/bpack12"
+        android:layout_width="@dimen/pack_width"
+        android:layout_height="@dimen/pack_height"
+        android:layout_marginTop="@dimen/pack_margin_top"
+        android:background="@drawable/custom_rounrect_twelve"
+        android:text="@string/twelve"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/content_text_size"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/bpack13"
+        android:layout_width="@dimen/pack_width"
+        android:layout_height="@dimen/pack_height"
+        android:layout_marginTop="@dimen/pack_margin_top"
+        android:background="@drawable/custom_rounrect_thirteen"
+        android:text="@string/thirteen"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/content_text_size"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/bpack14"
+        android:layout_width="@dimen/pack_width"
+        android:layout_height="@dimen/pack_height"
+        android:layout_marginTop="@dimen/pack_margin_top"
+        android:background="@drawable/custom_rounrect_fourteen"
+        android:text="@string/fourteen"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/content_text_size"
+        android:textStyle="bold" />
+
+</LinearLayout>

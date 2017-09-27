@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/td/Downloads/link/app/build/intermediates/res/merged/debug/drawable-ldpi/star_normal.png",
+        "source": "/home/td/Downloads/link/app/src/main/res/drawable-ldpi/star_normal.png"
+    },
+    {
+        "merged": "/home/td/Downloads/link/app/build/intermediates/res/merged/debug/drawable-ldpi/star_filled.png",
+        "source": "/home/td/Downloads/link/app/src/main/res/drawable-ldpi/star_filled.png"
+    }
+]

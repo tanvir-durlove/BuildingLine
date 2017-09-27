@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/llmoretitle"
+        android:layout_width="@dimen/pack_width"
+        android:layout_height="@dimen/pack_height"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/margin_above_cirlce"
+        android:background="@drawable/pressed_roundrect_ten"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tvheading"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/app_name"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/heading_main_textsize" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_above_roundrect"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btags"
+            android:layout_width="@dimen/pack_width"
+            android:layout_height="@dimen/pack_height"
+            android:layout_margin="10dp"
+            android:background="@drawable/custom_rounrect_flow1"
+            android:text="@string/tags"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/heading_text_size"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/bhelp"
+            android:layout_width="@dimen/pack_width"
+            android:layout_height="@dimen/pack_height"
+            android:layout_margin="10dp"
+            android:background="@drawable/custom_rounrect_flow3"
+            android:text="@string/help"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/heading_text_size"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/bsound"
+            android:layout_width="@dimen/pack_width"
+            android:layout_height="@dimen/pack_height"
+            android:layout_margin="10dp"
+            android:background="@drawable/custom_rounrect_flow4"
+            android:text="@string/sound"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/heading_text_size"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</LinearLayout>

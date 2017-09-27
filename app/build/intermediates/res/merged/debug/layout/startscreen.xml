@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/llmainheading"
+        android:layout_width="@dimen/pack_width"
+        android:layout_height="@dimen/pack_height"
+        android:layout_gravity="center"
+        android:layout_marginBottom="@dimen/margin_above_roundrect"
+        android:layout_marginTop="@dimen/margin_above_cirlce"
+        android:background="@drawable/pressed_roundrect_ten"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tvheading"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/app_name"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/heading_main_textsize" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/bstart"
+            android:layout_width="@dimen/pack_width"
+            android:layout_height="@dimen/pack_height"
+            android:layout_margin="10dp"
+            android:background="@drawable/custom_rounrect_flow1"
+            android:text="@string/start_game"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/heading_text_size"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/bselectPack"
+            android:layout_width="@dimen/pack_width"
+            android:layout_height="@dimen/pack_height"
+            android:layout_margin="10dp"
+            android:background="@drawable/custom_rounrect_flow2"
+            android:text="@string/select_pack"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/heading_text_size"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/bstore"
+            android:layout_width="@dimen/pack_width"
+            android:layout_height="@dimen/pack_height"
+            android:layout_margin="10dp"
+            android:background="@drawable/custom_rounrect_flow3"
+            android:text="@string/getHints"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/heading_text_size"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/bmore"
+            android:layout_width="@dimen/pack_width"
+            android:layout_height="@dimen/pack_height"
+            android:layout_margin="10dp"
+            android:background="@drawable/custom_rounrect_flow4"
+            android:text="@string/more"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/heading_text_size"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</LinearLayout>

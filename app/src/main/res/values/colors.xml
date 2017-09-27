@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- color for dialog background with 20 % transparency -->
+    <color name="dialog_back">#CC000000</color>
+
+    <!-- Colors used in ui and dots -->
+    <color name="add1">#ff8ff9</color>
+    <color name="add2">#472526</color>
+    <color name="add3">#9cfc7c</color>
+    <color name="add4">#56effc</color>
+    <color name="temp">#ffffff</color>
+    <color name="pack5">#dd3138</color>
+    <color name="pack6">#ffcd0f</color>
+    <color name="pack7">#008ee8</color>
+    <color name="pack8">#ff5d22</color>
+    <color name="pack9">#21b24b</color>
+    <color name="pack10">#7f1f63</color>
+    <color name="pack11">#795548</color>
+    <color name="pack12">#5c6bc0</color>
+    <color name="pack13">#0a8f08</color>
+    <color name="pack14">#9e9e9e</color>
+    <color name="main1">#e86700</color>
+    <color name="main2">#fdc000</color>
+    <color name="main3">#029871</color>
+    <color name="main4">#c80b09</color>
+
+    <!-- color for dots -->
+    <color name="dots1">#ff0018</color>
+    <color name="dots2">#fdfa13</color>
+    <color name="dots3">#16c5ff</color>
+    <color name="dots4">#14e715</color>
+    <color name="dots5">#673ab7</color>
+    <color name="dots6">#ff2b76</color>
+    <color name="dots7">#00e5d5</color>
+    <color name="dots8">#ff9800</color>
+    <color name="dots9">#5c6bc0</color>
+    <color name="dots10">#795548</color>
+    <color name="dots11">#0a8f08</color>
+    <color name="dots12">#ff8989</color>
+    <color name="dots13">#9c27b0</color>
+    <color name="dots14">#9e9e9e</color>
+    <color name="dots15">#444444</color>
+    <color name="dots16">#ffffff</color>
+    <color name="dots17">#222222</color>
+
+    <!-- colors for background and text -->
+    <color name="background_color">#061c2a</color>
+    <color name="background_board">#061c2a</color>
+    <color name="some_text_color">#b0c8d7</color>
+    <color name="textColor">#ffffff</color>
+
+</resources>

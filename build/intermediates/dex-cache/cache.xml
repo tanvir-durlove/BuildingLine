@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/260e63d7f8a350fde14d08bd3adce8375af89dc5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a6c5539d8f4b7dafd686e2cac2f4a356a67b0586/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/98b841817adf9bc91a163a2fa3d9690862b22eda/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fbb7fcfa2d36d00c9c6f118cffee789aecdb77ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/dbfa400296f3af4719523281f42638268041022e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e3d31c2f01bab8f85a7013d173801e293dd44dc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/ffbef8d3cb09503631e61b0a2cb9376ab37c8311/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fdd34b4251fce9ee25a7e2773073876bd1ad1668/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/08f3b6e8683a9b5eb0f43cd5b9bfacbfa99c6a48/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_21f20e4d2c55a11aaa3f4873006fc423a9380ab4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/e2b7846de49f4348e65a71b92df8165d98e54184/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_608c6032828b643210618090baf24a56e8ff904f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/4a95f0fd5b80ee78fa2dad51ee16005f26549774/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_69d286eddf44ceed3415831f5e8f98b0d0b117bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/ca97985c1ccb613c8f9224a1f4d25ad745e7fcd6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bdfc78f10e4cfb138ed82be98bdcdb2084cfb749/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/90f529c8e0393d412bad5531dfc83452c765c20c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cf3958ff39eaa43f5cae83a15335872433645ef6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/88eff140b7760c8e4ee2c35202a5db47323aa39b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_27825bca006cc3518461acc54c13f27062f29a06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/Downloads/link/app/libs/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/2/javax.inject-1_aa417a05544c7d83a954dfd6fb1aa1ccb2c60ea9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/32fe5fbe1df3761f5880f2619c6346b041e56b78/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d6a87231678ecb190a5185e5f7f1a2e7195d0330/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/552feb0f23109a42b85855b39249a1376d6dfcc4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ad7c88ac3eca19bb8f10b7d9b0aa1818deb36ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/8842e0a807be0480a962761d65bb055b1d8e06e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bdf224d6984894cf43b02b756391c72b2123afea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/30916da8469f2d80df025dba39531e4e1156bcf6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae4566461e990f6a3ae7e9f2242125510c5fd858/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/4cf9eec90a6c6c03b858f222c2faf2701f0e8ab0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62b82a2c171141e8ecc9d78135916860a7fa3d9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/f151a99f2bcf5c9876cf6c2f2e2436b1375b4c06/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63a5ba69555a77ca5fd78fd31bc05ab38cd2290f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/bc9e0a501316991dc5707fb551c30859fcde1f62/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b54a128f593ba1529a3a3a2ff427f85d89e20be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/219f247e50d60669f9d90482c8fae362c445d320/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f101a66555586ece61fc9d8df4aafc8170a3dc29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/db6bf9a3261c3beedbb20b74a439eaa565fbf61e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c00f398763b0eb9e3e29ccbddb5146d82676a9a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/3c25a6d934a420a6db44634c65083acb7d582f06/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3393ff4f9a76d3aeb0a0751f47f2e49158e9a80c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/59a6787143c1346c6fcebb33a3b638e852bac2e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_760ee5b2e69c3120ce0dfe8854027d0a3c8a1ac6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/1c8c8dddebb264019cfd816d0c5bbbce13380219/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e177db27b7dea30cf29b3fbb0759f89dd85cc25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/28427a5fa0ee9d0a1688700bbf619bfb84213852/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5394be7e2aaadd8c71d199914ad27bf0d0e772a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/36f4ebe26f7a3e60243709bde0e46afa22034efa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c7c4780b5b45d3d2c559e11e4ecee8098f3f9ba6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_791d70277d97dfa82e133db65717f19ffbe7d7f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/06fb9a55acbc815e934bb2f45a2a63770f94297c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b8ebf2c5f245427b4a73946489f59277feaed659/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/4f2178e64828bc41096c15130a30ba045d9d761c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e96b590777c60220e6164b86ca7c9a9c73556d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/d2146f1357ac848b3d709d5cc85e8c686e2632fe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9c1904a9ccea0ecb5c7aeed33eb132de19dfb882/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/2f16eaf54f16417659a839b4d8a1e017ef6ee546/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_92f4aa7eab80adcbe374c47f6ff00bec5275e848/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/48ea047c6a38cd7cfbd483ca04ea2ec646c81121/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_814fd7671f2b700af32854120164f193cb7f9620/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/12e38db2577a59e92e8ab7855cc5199b8e078451/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d2fb0473c36fe5cd0d51bc06279b3e0d519e85d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/a163564df5c2462f0c4ad4d60b6e1942da3b8ee8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56b474c0b46399025dae0b1d6bd6f5e5d87f10c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/01e56e1063c378e76e912a9c9a8de0614bca3ef7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5015042b090e0367505793c9760cae31af1890a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/6647f4c727eec3afad7ba2a8fcb7b476cfb814f0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_855717df63f9fff0cf3b0b44eb62b45a51cfc848/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/cef415dab9c6362dd029ac1e1806d847267dc48a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e2a22a4a101134a2bb2f804b118e7ffdea82f52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/cf61d44012dac74d9c604b4e5d53a1174d9d70d6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_975a8db945b176ac200429f7994581d377e13db6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/aba79bdc16a88b4b641f6f5ce711157fab1b777b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5beb42a9f01ddb548e987ed0bd8ccb287cd1a4d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/5e54a29735fe4c31a57ef5e9188afdd20d41751c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68ee5542cbf2c407a37c465052a5e7adf23096a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/Downloads/link/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/2/nineoldandroids-2.4.0_c883e72dc00dc1e1c96cda8f3620b3c2561facd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/8d431c4d67758bf19592bb9ed588c136efa8a02c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d6c1ba43a8cf087068fd58d271b86ed27029d495/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/a04a8e2b02e01294f61105b750475743737f784c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ca3bfde723c8a06428ada95f457d3b5cb7866e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/271879fed4819f40ddae9944002286423ceb40cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd6a9b328e375ada716aca074bec37c4e67b563c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/acd20b8e8ad8b4bed83bf1df963ec72c6a31bc6d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_223b75a072ed5bd52064a9e6a686e67e07ce6fa5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/431a233acf28de6a722ce31090b3860b47a1edde/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_952a269aec8147ee512504c8664e77b043633447/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/f5951a46e977169469c6aa8f57ac21c09ca5c689/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb9b5f56fb2183819053df90dc2d305ff559feba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/Downloads/link/app/libs/dagger-1.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e8f912ee19ad84958510883ea191135276b091f8">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/2/dagger-1.2.2_4a50f2a324c46c5dbaddc132893cbd7c22ec596b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/cf30d914b4e942795f724418092e5221449fe481/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7a21f6e73c1616c63f138469549c00946c5d5bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/cd8afaa4ceb7ec0f54a2c7915981c5c30b76e660/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6dc0126e72d68c8d2cb00cb6f1c3866fcc3ed90d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/c1003ca53fd8d653278b0d4156ad582da205ed5e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_904933adfc95911a954642a5e5ac362c3f65c57d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/033b0440f7949300feb78478be1158c792dda410/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c53afeb8e438ffa6b6d4de7b1d40423f3bf2a687/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/Downloads/link/app/libs/tapjoyconnectlibrary.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e133e7d954e58a772961315414be9b46f89874e">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/2/tapjoyconnectlibrary_1a2492500183e519c4ad040bda0d75063b59eaea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/888c8df663a7ce5a6f7ae89f371389ed0c678bca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3523d2e256f6a09f8ad8d079fdaa53da11ca1d3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/b82efcee87cd627dd0896687c39df69bbcf81d04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e0566ce90c67b56166444b8812050a2fc04d604/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/3170cbadb66374ab8cb36efbae8aab6478441357/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3160a57aa51461f2ecdf0047326c404fb5697b96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/f1c8660ff696d42ebfda4d3909fa3531821e5999/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_48895ed0d3697d6676cded7070d632ac39594493/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/a5d737ec8c0dcb86dc2619f0ffed2e91701ddfcf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7280e7077e69c3ef8a7375ee7ab5bbbaebd3d71b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/1c0e750283f88a88534abafc213637a08ec9ae3f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f612c704e96c6414036018fab18f2e199ef2dda3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/Downloads/link/app/libs/tween-engine-api.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8be8beb70b7ccae059d523e56670f6e44fb1821f">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/2/tween-engine-api_ea56159bc42b527807639f246423030eabb3c767/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/426bf5d50260067ca08b71a504e2d8980c7b81be/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d01515f3674dbc0e95f157a6cc237be21b248e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/1495eebd1821d096d127a15b74f3b16b264d3696/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c243661646da11bbb91ae8157c700817b795ac08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/a9b43c41fa121e8561772cb14566c9aeb3e8cf6d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1fb1836d5e7095566bb16c834c433a58518788f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/674c8e94a94ad11b32b01097e30cd8cf754025df/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb39e39c335d8925c03f9beb752bb95b0175546f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/02d334ab1cfb7ff0a7d52389acba78cbf3f300cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_35c4f3cc3fc00f251dc18fc29df6453c1833ed9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/407e2489b5ae3c484bcb0a77564a41abe4b4b158/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_06e0bba763719f526a9b5645c8b68746df06357a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/Downloads/link/app/libs/vungle-publisher-adaptive-id-3.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="abe661057ed465d2154180b4fe528394158db2a4">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/2/vungle-publisher-adaptive-id-3.3.2_bfb7e29cf3c19b3d99c595b29d213ae600aa80ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/3828301d0f7c6afd78a76ad97e29a4a5f3045d56/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab04a1947f2fd5c10a9103ed664ef24b5ba20c10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/641fd88e698941307b3711581a4c807e3f121217/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c9fe1b8058f474b14497efff18ff10588f35853c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/bc44c6535995f48760d0c164826f57c7e39dfd04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1552943424889d1f9674fd90fa6718d86f97517/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/td/.android/build-cache/f2cc8ca77fdf50be915768db781326ee7745c5f9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/home/td/Downloads/link/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ed398efee1948e504e2e2898aafce617ec9f5a8/classes.dex" />
+    </item>
+
+</items>

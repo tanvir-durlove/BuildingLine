@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/td/Downloads/link/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/td/.android/build-cache/a163564df5c2462f0c4ad4d60b6e1942da3b8ee8/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/td/Downloads/link/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/td/.android/build-cache/a163564df5c2462f0c4ad4d60b6e1942da3b8ee8/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/td/Downloads/link/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/td/.android/build-cache/a163564df5c2462f0c4ad4d60b6e1942da3b8ee8/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/td/Downloads/link/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/td/.android/build-cache/a163564df5c2462f0c4ad4d60b6e1942da3b8ee8/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/td/Downloads/link/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/td/.android/build-cache/a163564df5c2462f0c4ad4d60b6e1942da3b8ee8/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/td/Downloads/link/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/td/.android/build-cache/a163564df5c2462f0c4ad4d60b6e1942da3b8ee8/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/td/Downloads/link/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/td/.android/build-cache/a163564df5c2462f0c4ad4d60b6e1942da3b8ee8/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/td/Downloads/link/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/td/.android/build-cache/a163564df5c2462f0c4ad4d60b6e1942da3b8ee8/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/td/Downloads/link/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/td/.android/build-cache/a163564df5c2462f0c4ad4d60b6e1942da3b8ee8/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/td/Downloads/link/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/td/.android/build-cache/a163564df5c2462f0c4ad4d60b6e1942da3b8ee8/output/res/anim/abc_popup_exit.xml"
+    }
+]
