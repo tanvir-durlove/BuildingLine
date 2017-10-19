@@ -12,9 +12,6 @@ Please feel free to download the repo so that you can get the access of the code
 #### Tools
 * Android Studio
 
-### Note :
-I download the source code. Make and replace my logic.
-
 ### Apk
 Just clone this repo and run it.
 
