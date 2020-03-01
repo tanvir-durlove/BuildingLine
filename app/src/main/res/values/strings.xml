@@ -9,8 +9,8 @@
     <string name="no_thanks">No </string>
 
     <!-- values for admob -->
-    <string name="banner_id"> ca-app-pub-8389297099602812/8261868446</string>
-    <string name="interstitial_id">ca-app-pub-8389297099602812/3007394535</string>
+    <string name="banner_id">ca-app-pub-6044235465779170/9680943856</string>
+    <string name="interstitial_id">ca-app-pub-6044235465779170/6671637139</string>
 
     <!-- values for tapjoy free hints -->
     <string name="tap_appId">349fc50b-f810-4bd1-b1d6-97087e315d09</string>
@@ -22,7 +22,7 @@
 
     <!-- string values for app -->
     <string name="shareSubject">Check this out</string>
-    <string name="app_name">Draw Your Line</string>
+    <string name="app_name">Connect the Dots</string>
     <string name="folder_name">Link</string>
     <string name="tag1">Dots</string>
     <string name="tag2">Toffee</string>

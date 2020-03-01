@@ -81,7 +81,8 @@
             android:text="@string/getHints"
             android:textColor="@android:color/white"
             android:textSize="@dimen/heading_text_size"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:visibility="gone"/>
     </LinearLayout>
 
     <LinearLayout

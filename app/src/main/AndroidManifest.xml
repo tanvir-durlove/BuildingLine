@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    package="com.codeonce.drawyoureline"
+    package="com.arbitrium.connecttheline"
     android:installLocation="auto"
     android:versionCode="3"
-    android:versionName="2.1">
+    android:versionName="2.1"
+    android:name="android.support.multidex.MultiDexApplication" >
 
-    <uses-sdk
-        android:minSdkVersion="14"
-        android:targetSdkVersion="23" />
+
+    <uses-sdk android:targetSdkVersion="23" />
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -22,7 +21,7 @@
         android:label="@string/app_name"
         android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
         <activity
-            android:name="com.codeonce.drawyoureline.StartScreen"
+            android:name="com.arbitrium.connecttheline.StartScreen"
             android:label="@string/app_name"
             android:screenOrientation="portrait" >
             <intent-filter>
@@ -32,38 +31,38 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.codeonce.drawyoureline.GameActivity"
+            android:name="com.arbitrium.connecttheline.GameActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.codeonce.drawyoureline.Store"
+            android:name="com.arbitrium.connecttheline.Store"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.codeonce.drawyoureline.BasicPackActivity"
+            android:name="com.arbitrium.connecttheline.BasicPackActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.codeonce.drawyoureline.HelpActivity"
+            android:name="com.arbitrium.connecttheline.HelpActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.codeonce.drawyoureline.PackType"
+            android:name="com.arbitrium.connecttheline.PackType"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.codeonce.drawyoureline.AdvancedPackActivity"
+            android:name="com.arbitrium.connecttheline.AdvancedPackActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.codeonce.drawyoureline.TabPackActivity"
+            android:name="com.arbitrium.connecttheline.TabPackActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.codeonce.drawyoureline.LevelsActivity"
+            android:name="com.arbitrium.connecttheline.LevelsActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.codeonce.drawyoureline.MoreScreen"
+            android:name="com.arbitrium.connecttheline.MoreScreen"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.codeonce.drawyoureline.TagsScreen"
+            android:name="com.arbitrium.connecttheline.TagsScreen"
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.Dialog" />
         <activity
-            android:name="com.codeonce.drawyoureline.GetHints"
+            android:name="com.arbitrium.connecttheline.GetHints"
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.Dialog" />
 
@@ -95,6 +94,9 @@
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-6044235465779170~2185597216"/>
 
         <activity
             android:name="com.google.android.gms.ads.AdActivity"

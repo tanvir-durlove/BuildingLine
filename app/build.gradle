@@ -2,12 +2,12 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 26
-    buildToolsVersion '25.0.0'
+    buildToolsVersion '28.0.3'
 
     defaultConfig {
-        applicationId "com.codeonce.drawyoureline"
+        applicationId "com.arbitrium.connecttheline"
         minSdkVersion 14
-        targetSdkVersion 23
+        targetSdkVersion 26
         multiDexEnabled true
 
     }
@@ -20,14 +20,15 @@ android {
     }
 }
 dependencies {
-    compile 'com.android.support:appcompat-v7:23.0.0'
-    compile 'com.google.android.gms:play-services:+'
-    compile 'com.android.support:multidex:1.0.1'
-    compile files('libs/dagger-1.2.2.jar')
-    compile files('libs/javax.inject-1.jar')
-    compile files('libs/nineoldandroids-2.4.0.jar')
-    compile files('libs/tapjoyconnectlibrary.jar')
-    compile files('libs/tween-engine-api-sources.jar')
-    compile files('libs/tween-engine-api.jar')
-    compile files('libs/vungle-publisher-adaptive-id-3.3.2.jar')
+    implementation 'com.android.support:appcompat-v7:26.0.0'
+    implementation 'com.google.android.gms:play-services:+'
+    implementation 'com.android.support:multidex:1.0.1'
+
+    implementation files('libs/dagger-1.2.2.jar')
+    implementation files('libs/javax.inject-1.jar')
+    implementation files('libs/nineoldandroids-2.4.0.jar')
+    implementation files('libs/tapjoyconnectlibrary.jar')
+    implementation files('libs/tween-engine-api-sources.jar')
+    implementation files('libs/tween-engine-api.jar')
+    implementation files('libs/vungle-publisher-adaptive-id-3.3.2.jar')
 }
