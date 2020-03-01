@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_jars__:C.\Users\IT\AndroidStudioProjects\BuildingLine\app\libs\tween-engine-api.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/tween-engine-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/app/libs/tween-engine-api-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
